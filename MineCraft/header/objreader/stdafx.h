@@ -1,0 +1,17 @@
+#pragma once
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <vector>
+#include "GL/glew.h"
+#include "GL/freeglut.h"
+#include "glm/glm.hpp"
+#include "glm/ext.hpp"
+#include "glm/gtc/matrix_transform.hpp"
+#include <cassert>
+#include <string>
+#include <fstream>
+#include <sstream>
+#include <random>
+#include <cmath>
+#include <time.h>
+#include <Windows.h>
